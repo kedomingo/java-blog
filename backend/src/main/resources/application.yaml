@@ -1,0 +1,12 @@
+
+server:
+  servlet:
+    context-path: /
+  error:
+    include-message: always
+  max-http-header-size: 32KB
+  port: 9090
+
+springdoc:
+  swagger-ui:
+    disable-swagger-default-url: true
