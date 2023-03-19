@@ -5,7 +5,7 @@ server:
   error:
     include-message: always
   max-http-header-size: 32KB
-  port: 9090
+  port: 6060
 
 springdoc:
   swagger-ui:
